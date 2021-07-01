@@ -3,7 +3,7 @@ checkmypass v1
 
 Check how many times the password was exposed in data breaches
 
-Created using the API by [pwned passwordsl](https://haveibeenpwned.com/)
+Created using the API by [pwned passwords](https://haveibeenpwned.com/)
 
 ## Setup
 
